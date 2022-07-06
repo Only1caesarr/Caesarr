@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uniqueXm
+- 👋 Hi, I’m @Caesarr
 - 👀 I’m interested in web development and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web dev with django
